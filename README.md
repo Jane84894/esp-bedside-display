@@ -176,7 +176,7 @@ MIT License
 
 ## 📬 联系方式 | Contact
 
-- GitHub: [@D1ts1337](https://github.com/D1ts1337)
+- GitHub: [@Jane84894](https://github.com/Jane84894)
 - Issues: [Issues](https://github.com/Jane84894/esp-bedside-display/issues)
 
 ---
